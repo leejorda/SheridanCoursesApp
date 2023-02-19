@@ -23,7 +23,7 @@ Watch the demo [here](https://youtu.be/p-VUcOZpn78)
 ![alt text](https://github.com/leejorda/SheridanCoursesApp/blob/main/second.png)
 
 ## New Potential Functionalities
-These functionalities were not found in the top 5 competitor applications I have reviewed. The application could potentially be made more competetive by adding these features
+These functionalities were not found in the top 5 competitor applications I have reviewed. The application could potentially be made more competitive by adding these features
 Feature | Description
 -- | --
 Video group chat | Allows students to join a group call to improve virtual classroom interactiveness
