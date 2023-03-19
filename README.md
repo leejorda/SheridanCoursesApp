@@ -12,15 +12,20 @@ This prototype is a mobile application designed for students at Sheridan College
 ## Figma URLs
 * [Prototype 1](https://www.figma.com/proto/wkjzjiZMc0nhYGePG0QX3m/SheridanCoursesApp?page-id=0%3A1&node-id=1%3A3&viewport=179%2C515%2C0.6&scaling=scale-down&starting-point-node-id=1%3A3)
 * [Prototype 2](https://www.figma.com/proto/DdgoJUWNXDItF5dCuguncu/SheridanCoursesApp-2nd-Prototype?page-id=0%3A1&node-id=101%3A514&viewport=676%2C793%2C1.06&scaling=scale-down&starting-point-node-id=101%3A514)
+* [Final prototype](https://www.figma.com/proto/qAocgkMsaplSr9MgnsE0H6/SheridanCoursesApp-Final?page-id=0%3A1&node-id=101-514&viewport=339%2C315%2C0.48&scaling=scale-down&starting-point-node-id=101%3A514)
 
 ## Video Demo
-Watch the demo [here](https://youtu.be/p-VUcOZpn78)
+Watch the [prototype 2 demo](https://youtu.be/p-VUcOZpn78)
 
 ## Initial Prototype
 ![alt text](https://github.com/leejorda/SheridanCoursesApp/blob/main/initial.png)
 
 ## Second Prototype
 ![alt text](https://github.com/leejorda/SheridanCoursesApp/blob/main/second.png)
+
+## Final Prototype
+<img width="1255" alt="Screenshot 2023-03-19 at 3 19 59 PM" src="https://user-images.githubusercontent.com/59710006/226203735-5ddfa2b4-b930-4e26-83a9-b70666552d38.png">
+
 
 ## New Potential Functionalities
 These functionalities were not found in the top 5 competitor applications I have reviewed. The application could potentially be made more competitive by adding these features
